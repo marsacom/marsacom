@@ -1,16 +1,26 @@
-## Hi there 👋
+<!--Gradient-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--
-**marsacom/marsacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mars 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 👨‍💻 I'm currently working primarily as **IT Support & Back-End Development**
+- 💡 I'm very passionate about **Cybersecurity & Penetration Testing**
+- 🔭 I’m currently working on ... **Python, JavaScript, SQL, VBA**
+- 🌱 I’m currently learning ... **NodeJS & C#**
+- 💼 In my free time I do CTF's and other ***"Hacking" Challenges***
+- 💬 Ask me about ... **My additional work & side projects**
+- 📫 How to reach me ... **marsacom@proton.me**
+
+<!--Gradient-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,github,linux,md,mysql,git,discord,docker,html,nginx,mongodb,nodejs&perline=14" />
+  </a>
+</p>
+
+[![Marsacom's GitHub stats](https://github-readme-stats.vercel.app/api?username=marsacom&show_icons=true&theme=dark)](https://github.com/marsacom/github-readme-stats)
