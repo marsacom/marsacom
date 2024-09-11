@@ -7,11 +7,11 @@
 ## About Me
 - 👨‍💻 I'm currently working primarily as **IT Support & Back-End Development**
 - 💡 I'm very passionate about **Cybersecurity & Penetration Testing**
-- 🔭 I’m currently working on ... **Python, JavaScript, SQL, VBA**
-- 🌱 I’m currently learning ... **NodeJS & C#**
+- 🔭 I’m currently working on **Python, JavaScript, SQL, VBA**
+- 🌱 I’m currently learning **NodeJS & C#**
 - 💼 In my free time I do CTF's and other ***"Hacking" Challenges***
-- 💬 Ask me about ... **My additional work & side projects**
-- 📫 How to reach me ... **marsacom@proton.me**
+- 💬 Ask me about **My additional work & side projects**
+- 📫 You can best reach me at : **marsacom@proton.me**
 
 <!--Gradient-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
