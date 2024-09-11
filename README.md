@@ -5,7 +5,7 @@
 
 
 ## About Me
-- 👨‍💻 I'm currently working primarily as **IT Support & Back-End Development**
+- 👨‍💻 I'm currently working primarily doing **IT Support & Back-End Development**
 - 💡 I'm very passionate about **Cybersecurity & Penetration Testing**
 - 🔭 I’m currently working on **Python, JavaScript, SQL, VBA**
 - 🌱 I’m currently learning **NodeJS & C#**
